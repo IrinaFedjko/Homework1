@@ -1,0 +1,11 @@
+Milk, 2.3 eur
+Chocolate, 5.0 eur
+Butter, 2.72 eur
+Nuts, 15.5 eur
+Cheese, 6,99 eur
+Eggs, 2.30 eur
+Candies, 15.99 eur
+Apple, 2.5 eur
+Banana, 2.99 eur
+Bread, 1.32 eur
+Oil, 4.56 eur
